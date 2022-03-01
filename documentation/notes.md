@@ -10,6 +10,7 @@
 - Shotgun Surgery
 - Long Parameter List
 - Primitive Obsession
+- Bad Naming for variables
 
 # Desing Patterns/Principiles/Convetions
 - You Ain't Gonna Need It (YAGNI)
