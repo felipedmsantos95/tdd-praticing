@@ -1,5 +1,6 @@
 # TDD Praticing
 
+
 Developing simple service functionality using TDD (Test Driven Development) and SOLID principles.
 
 **S**ingle Responsability Principle
@@ -23,6 +24,24 @@ Application must verifiy date from now and check if an event is in one of these 
  </p>
 
 
+## Used Technologies
+
+-   [Node.js](https://nodejs.org/en/)
+-   Tests were written through [Jest](https://jestjs.io/pt-BR/) framework
+
+## Requirements
+
+-   [Yarn](https://yarnpkg.com/) 1.22.5 or later
+-   [Node](https://nodejs.org/en/) 12.22 or later
+
+
+## Running application tests
+
+```bash
+ yarn test
+```
+
+
 These are the tests cases:
 
 ### Data
@@ -44,4 +63,7 @@ Event ID
 
 ### Alternative Flow: Group hasn't any event appointed
 1. Return "done" status
+
+
+
 
