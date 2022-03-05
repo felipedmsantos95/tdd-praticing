@@ -59,24 +59,24 @@ Application must verifiy date from now and check if an event is in one of these 
 
 These are the tests cases:
 
-### Data
+##### Data
 Event ID
 
-### Main Flow
+##### Main Flow
 
 1. Obtain data from last event group (end date and review duration)
 2. Return "active" status if event hasn't done yet
 
-### Alternative Flow: Event is on closure limit
+##### Alternative Flow: Event is on closure limit
 1. Return "active" status
 
-### Alternative Flow: Event done, but is inside on event review period
+##### Alternative Flow: Event done, but is inside on event review period
 1. Return "inReview" status
 
-### Alternative Flow: Event and event review period done
+##### Alternative Flow: Event and event review period done
 1. Return "done" status
 
-### Alternative Flow: Group hasn't any event appointed
+##### Alternative Flow: Group hasn't any event appointed
 1. Return "done" status
 
 
