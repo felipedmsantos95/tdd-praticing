@@ -2,15 +2,15 @@
 
 Developing simple service functionality using TDD (Test Driven Development) and SOLID principles.
 
-*S*ingle Responsability Principle
+**S**ingle Responsability Principle
 
-*O*pen Closed Principle
+**O**pen Closed Principle
 
-*L*iskov Substituition Principle
+**L**iskov Substituition Principle
 
-*I*nterface Segregation Principle
+**I**nterface Segregation Principle
 
-*D*ependency Invertion Principle
+**D**ependency Invertion Principle
 
 
 ## Functionality Explanation
@@ -19,7 +19,7 @@ Application must verifiy date from now and check if an event is in one of these 
 
 
 <p align="center">
-   <img src="https://github.com/felipedmsantos95/tdd-praticing /blob/main/img/data.png"/>
+   <img src="https://github.com/felipedmsantos95/tdd-praticing/tree/main/img"/>
  </p>
 
 
