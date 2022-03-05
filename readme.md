@@ -35,7 +35,22 @@ Application must verifiy date from now and check if an event is in one of these 
 -   [Node](https://nodejs.org/en/) 12.22 or later
 
 
-## Running application tests
+## Running Project
+
+#### Clonning Project
+
+```bash
+ git clone https://github.com/felipedmsantos95/tdd-praticing
+ cd tdd-praticing
+```
+
+#### Installing Dependencies
+
+```bash
+ yarn install
+```
+
+#### Running Tests
 
 ```bash
  yarn test
